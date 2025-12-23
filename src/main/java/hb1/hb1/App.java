@@ -24,9 +24,9 @@ public class App
         
         Student s=new Student();
         
-        s.setName("suraj patil");
-        s.setCity("london");
-        s.setPercentage(64.00);
+        s.setName("Haridas Shinde");
+        s.setCity("Pangra Shinde");
+        s.setPercentage(90.00);
         
         session.save(s);
         tx.commit();
