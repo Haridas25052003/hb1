@@ -24,6 +24,7 @@ public class App
         
         Student s=new Student();
         
+        //add always the new names so it will add in database
         s.setName("Haridas Shinde");
         s.setCity("Pangra Shinde");
         s.setPercentage(90.00);
